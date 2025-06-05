@@ -51,7 +51,7 @@ I'm currently learning and building in the Salesforce ecosystem, working towards
 - 🧩 I love puzzles and brain teasers
 - 🎸 I play guitar in my spare time
 - 📚 Avid reader, always looking for a good book recommendation
-- 🏋️ I enjoy working out and staying active
+- 🏋️ I enjoy working out, hiking, and staying active
 
 ---
 

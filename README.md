@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm currently learning and building in the Salesforce ecosystem, working towards a career transition after over a decade in customer service and sales. I recently earned my **Salesforce App Builder Certification** and am channeling my curiosity and passion for problem-solving into creating my own Salesforce app—documented every step of the way!
+I'm currently learning and building in the Salesforce ecosystem, working towards a career transition after over a decade in customer service and sales. I've earned my **Salesforce App Builder Certification** and am channeling my curiosity and drive for problem-solving into creating my own Salesforce app—documented every step of the way!
 
 - 💼 **Background:** 10+ years in customer service & sales (call centers)
 - 📈 **Now:** Salesforce enthusiast, app builder, and best-practices advocate
@@ -23,15 +23,16 @@ I'm currently learning and building in the Salesforce ecosystem, working towards
 - 📝 **Sharing my learning process:**  
   I believe in learning out loud. I blog about my app-building journey, Salesforce tips, and lessons learned on [kymes.blog](https://kymes.blog).
 
-- 👩‍💻 **Practicing best practices:**  
+- 👩‍💻 **Emphasizing best practices:**  
   GitHub is my platform for version control, documentation, and maintaining professional habits as I grow my dev skills.
 
 ---
 
 ## 🌱 Skills & Tools
 
-- **Salesforce:** App Builder Cert, Lightning App Builder, Salesforce Flows, Reports & Dashboards
-- **Version Control:** Git & GitHub
+- **Salesforce:** App Builder Cert, Lightning App Builder, Salesforce Flows, Agentforce, Reports & Dashboards
+- **HTML/CSS:** Beginning to flex my Front-End Development skills in preparation for Salesforce Experience projects
+- **Version Control:** Git & GitHub basics along with version control best practices
 - **Communication:** Customer engagement, process documentation
 - **Always Learning:** Open to new challenges and technologies!
 

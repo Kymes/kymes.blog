@@ -55,4 +55,4 @@ I'm currently learning and building in the Salesforce ecosystem, working towards
 
 ---
 
-Thanks for stopping by! If you're passionate about Salesforce, let's connect!
+Thanks for stopping by! If you're enthusiastic about Salesforce, let's connect!
